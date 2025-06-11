@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Notes" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+                 <item name="colorPrimary">@color/color</item>
+                 <item name="colorPrimaryVariant">@color/color</item>
+    </style>
+
+    <style name="Theme.Notes" parent="Base.Theme.Notes" />
+
+    <style name="ProgressBar">
+        <item name="colorSecondary">#FE6044</item>
+    </style>
+    
+    <style name="ToolbarTitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/graduate</item>
+        <item name="android:textColor">@color/bg_color</item>
+        
+    </style>
+</resources>
