@@ -4,7 +4,6 @@
 <br>
 
 ## 🖼️ Screenshots
-<!-- Replace underscores with your actual image filenames -->
 ### 🔸 Home Screen (Staggered Notes View)
 <img src="screenshots/home.jpg" width="300" alt=""/>
 
